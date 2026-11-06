@@ -35,3 +35,4 @@ npm run dev
 ```bash
 npm run build
 ```
+# atharv_hostel_WEBSITE
